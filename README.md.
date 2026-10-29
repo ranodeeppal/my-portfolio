@@ -1,2 +1,66 @@
-#My Portfolio
-A responsive personal portfolio website built using HTML and CSS.
+# Personal Portfolio Website
+
+## About the Project
+This is my personal portfolio website, developed using HTML and CSS, to showcase my profile, technical skills, projects, and contact information.
+
+The website serves as a professional online portfolio for internship and career opportunities.
+
+## Features
+- Clean and professional user interface
+- Responsive website design
+- About Me section
+- Technical Skills section
+- Projects showcase
+- Contact information
+- Simple and user-friendly navigation
+
+## Technologies Used
+- HTML5
+- CSS3
+- Git and GitHub
+- GitHub Pages for deployment
+
+## Project Structure
+
+```text
+my-portfolio/
+├── index.html
+├── style.css
+└── README.md
+```
+
+## How to View the Project
+
+Visit my live portfolio website:
+
+**Live Demo:** https://ranodeeppal.github.io/my-portfolio/
+
+## How to Run Locally
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/ranodeeppal/my-portfolio.git
+   ```
+
+2. Open the project folder.
+3. Open `index.html` in your web browser.
+
+## What I Learned
+- Creating web pages using HTML.
+- Styling web pages using CSS.
+- Organizing files in a web development project.
+- Using Git and GitHub for version control.
+- Publishing a website using GitHub Pages.
+
+## Future Improvements
+- Improve responsive design for mobile devices.
+- Add interactive features using JavaScript.
+- Enhance animations and visual styling.
+- Update the portfolio with new projects and skills.
+
+## Author
+**Ranodeep Pal**
+
+## License
+This project is created for learning, portfolio development, and internship applications.
